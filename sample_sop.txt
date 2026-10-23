@@ -1,0 +1,5 @@
+STANDARD OPERATING PROCEDURE: EXAMPLE PCR ASSAY (invented test text)
+Target: primers amplify a region of the human EGFR gene.
+Forward primer sequence: 5'-GCAATATCAGCCTTAGGTGC-3'
+Reverse primer sequence: 5'-GATCCAAAGGTCATCAAGGG-3'
+Thermal cycler setup: anneal at 58.5 degrees Celsius for 30 seconds.
